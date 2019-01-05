@@ -1,6 +1,6 @@
 # R4VAR
 Include four files. 
-The VARCodes.zip contains all the R codes for the book: Vector Autoregressive Models  (å‘é‡è‡ªæˆ‘è¿´æ­¸æ¨¡å‹): Econometric Methods and R Programs
+The VARCodes.zip contains all the R codes for the book: Vector Autoregressive Models  (¦V¶q¦Û§Ú°jÂk¼Ò«¬): Econometric Methods and R Programs
 The VARData.zip is the data set for these codes.
 The manual.pdf is the manual written in Chinese.
 The comparison.pdf is the compared results.
